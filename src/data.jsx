@@ -50,7 +50,8 @@ export default [
     description:
       "Interested in becoming a wedding photographer? For beginner and experienced photographers alike, join us in learning techniques required to leave the happy couple with memories that'll last a lifetime.",
     price: 125,
-    coverImg: "../src/image/Simplify Vehicles (@Simplifycars) _ Twitter.jpeg",
+    coverImg:
+      "https://i.pinimg.com/564x/2e/40/02/2e40027b9b156589cfbccbf7b33d3bc7.jpg",
     tags: ["benz", "luxury", "sports"],
   },
   {
