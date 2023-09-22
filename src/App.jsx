@@ -1,5 +1,4 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-// import LoginPage from "./component/signin";
 import { LoginPage } from "./component/signin";
 
 import DragandDrop from "./component/draganddrop";

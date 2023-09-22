@@ -15,8 +15,6 @@ export const LoginPage = () => {
   const [passwordVisible, setPasswordVisible] = useState(false);
   const [showPopup, setShowPopup] = useState(true);
   const navigate = useNavigate();
-  const location = useLocation();
-  const from = location.state?.from?.pathname || "/gallery";
   const handleSubmit = async (e) => {
     e.preventDefault();
     setIsLoading(true);
@@ -25,7 +23,7 @@ export const LoginPage = () => {
       setSuccess("Login successful!");
       setTimeout(() => {
         setSuccess("");
-        navigate(from, { replace: true });
+        navigate("/gallery");
       }, 3000);
     } catch (error) {
       setError("Invalid email or password");
@@ -66,7 +64,7 @@ export const LoginPage = () => {
             <div className="p-6 space-y-4 md:space-y-6 sm:p-8">
               <div>
                 <h1 className="text-2xl font-bold text-center text-red-400">
-                  CakePixie:frame_with_picture:
+                  Cars
                 </h1>
               </div>
               <h1 className="text-lg font-semibold leading-tight tracking-tight text-gray-900 md:text-2">
