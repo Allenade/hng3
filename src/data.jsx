@@ -68,7 +68,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/05a78a3f-e23b-4be0-a139-57da82507ea4.jpeg",
+    coverImg: "../src/image/carimage.jpg",
     tags: ["benz", "luxury", "sports"],
   },
   {
