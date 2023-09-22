@@ -4,7 +4,7 @@ export default [
     title: "sleep ",
     description:
       'I will share with you what I call "Positively Impactful Moments of Disappointment." Throughout my career, many of my highest moments only came after setbacks and losses. But learning from those difficult moments is what gave me the ability to rise above them and reach my goals.',
-    coverImg: "../src/image/472a91a7-355d-45b8-8ff3-acb063796b58.jpeg",
+    coverImg: "https://www.pinterest.com/pin/673851163018405959/",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -12,8 +12,7 @@ export default [
     title: "money",
     description:
       "Interested in becoming a wedding photographer? For beginner and experienced photographers alike, join us in learning techniques required to leave the happy couple with memories that'll last a lifetime.",
-    coverImg:
-      "../src/image/Alright so the majority of my FB says this isn’t photoshopped_ Please help me explain it is.jpeg",
+    coverImg: ".https://www.pinterest.com/pin/20547742044970074/",
     tags: ["ride", "money", "sports"],
   },
   {
@@ -22,7 +21,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/Bmw.jpeg",
+    coverImg: "https://www.pinterest.com/pin/60728294962357681/",
     tags: ["g63", "life", "sport"],
   },
   {
@@ -31,7 +30,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/b4aa9dad-cf8f-4fbf-8fe8-06fee136d8dc.jpeg",
+    coverImg: "https://www.pinterest.com/pin/967007351223802229/",
     tags: ["benz", "luxury", "sports"],
   },
 
@@ -41,7 +40,7 @@ export default [
     description:
       'I will share with you what I call "Positively Impactful Moments of Disappointment." Throughout my career, many of my highest moments only came after setbacks and losses. But learning from those difficult moments is what gave me the ability to rise above them and reach my goals.',
     price: 136,
-    coverImg: "../src/image/CRAZY RICH MOMMY [LALISA].jpeg",
+    coverImg: "https://www.pinterest.com/pin/222083825367727742/",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -60,7 +59,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/supercar audi r8 review.jpeg",
+    coverImg: "https://www.pinterest.com/pin/34691859624321733/",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -69,7 +68,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/carimage.jpg",
+    coverImg: "https://www.pinterest.com/pin/190347521744421982/",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -78,7 +77,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/2023 Mercedes-AMG G63 4x4.jpeg",
+    coverImg: "https://www.pinterest.com/pin/880664902116370881/",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -87,7 +86,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/2e856b41-43ae-4480-a1e4-1029ee34f86b.jpeg",
+    coverImg: "https://www.pinterest.com/pin/28429041391484386/",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -96,7 +95,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/472a91a7-355d-45b8-8ff3-acb063796b58.jpeg",
+    coverImg: "https://www.pinterest.com/pin/13088655160749655/",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -105,7 +104,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/67654644-d233-49f7-870f-458998b46153.jpeg",
+    coverImg: "https://www.pinterest.com/pin/18366310973888525/",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -114,8 +113,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg:
-      "../src/image/Alright so the majority of my FB says this isn’t photoshopped_ Please help me explain it is.jpeg",
+    coverImg: "https://www.pinterest.com/pin/5418462041496021/",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -135,7 +133,7 @@ export default [
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
     coverImg:
-      "../src/image/cars tattoo car tattoo design car decoration design.jpeg",
+      "https://i.pinimg.com/236x/72/5e/39/725e390500459fe41ee83f76aa57a2cd.jpg",
     tags: ["benz", "luxury", "sports"],
   },
   {
@@ -144,7 +142,7 @@ export default [
     description:
       "Experience the beautiful Norwegian landscape and meet new friends all while conquering rugged terrain on your mountain bike. (Bike provided!)",
     price: 50,
-    coverImg: "../src/image/Bmw.jpeg",
+    coverImg: "https://www.pinterest.com/pin/298011700358028840/",
     tags: ["bmw", "luxury", "sports"],
   },
 ];
